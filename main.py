@@ -7,7 +7,7 @@ import time
 from urllib.parse import urlencode
 from discord.ext import commands
 
-# Load environment variables
+# Load environment variables 
 DISCORD_BOT_TOKEN = 'Add your Discord bot token here'  # Token for the Discord bot to interact with the Discord API
 BINANCE_API_KEY = 'Your Binance API Key goes here'  # API key to authenticate with Binance
 BINANCE_SECRET_KEY = 'Your Binance Secret Key goes here'  # Secret key for signing requests to Binance
