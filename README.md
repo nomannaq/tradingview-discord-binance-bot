@@ -108,6 +108,8 @@ You can customize the bot based on your needs:
 - **Leverage**: Adjust leverage for futures trading.
 
 ---
+Here is the visual representation of the architecture
+![alt text](image.png)
 
 ## Contributing
 
@@ -129,8 +131,6 @@ For any queries or assistance, feel free to reach out:
 - **Email**: nomannaq.aa@gmail.com
 
 ---
-Here is the visual representation of the architecture
-![alt text](image.png)
 
 
 ### Happy Trading! 📈🚀
