@@ -129,7 +129,8 @@ For any queries or assistance, feel free to reach out:
 - **Email**: nomannaq.aa@gmail.com
 
 ---
+Here is the visual representation of the architecture
+![alt text](image.png)
+
 
 ### Happy Trading! 📈🚀
-
-
