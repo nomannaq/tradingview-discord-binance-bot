@@ -12,7 +12,9 @@ This project automates a **TradingView strategy** by utilizing **Discord** and *
 - 🔒 **Secure**: Uses HMAC SHA-256 for signing API requests, ensuring safe transactions.
 
 ---
-
+---
+Here is the visual representation of the architecture
+![alt text](image.png)
 
 ### Main Components:
 1. **Discord Bot**: Listens for TradingView alerts and processes trading operations.
@@ -107,9 +109,7 @@ You can customize the bot based on your needs:
 - **Order Types**: The bot uses limit orders by default, but it can be modified to use market orders.
 - **Leverage**: Adjust leverage for futures trading.
 
----
-Here is the visual representation of the architecture
-![alt text](image.png)
+
 
 ## Contributing
 
