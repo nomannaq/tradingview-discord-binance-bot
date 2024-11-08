@@ -97,8 +97,8 @@ Here are some example commands that the bot will respond to:
 - `SHORT BTCUSDT`: Place a short (sell) order on BTCUSDT.
 - `PRICE`: Fetch the current price of BTC.
 - `QUANTITY`: Check the maximum quantity available for trading.
-- `CLOSE1`: Close a long position.
-- `CLOSE2`: Close a short position.
+- `CLOSE1 BTCUSDT`: Close a long position.
+- `CLOSE2 BTCUSDT`: Close a short position.
 
 ---
 
