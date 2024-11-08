@@ -93,8 +93,8 @@ Here is the visual representation of the architecture
 
 Here are some example commands that the bot will respond to:
 
-- `LONG`: Place a long (buy) order.
-- `SHORT`: Place a short (sell) order.
+- `LONG BTCUSDT`: Place a long (buy) order on BTCUSDT. (You can use any other symbol instead of BTCUSDT) 
+- `SHORT BTCUSDT`: Place a short (sell) order on BTCUSDT.
 - `PRICE`: Fetch the current price of BTC.
 - `QUANTITY`: Check the maximum quantity available for trading.
 - `CLOSE1`: Close a long position.
