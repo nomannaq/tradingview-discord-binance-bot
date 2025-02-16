@@ -18,7 +18,7 @@ Here is the visual representation of the architecture
 
 ### Main Components:
 1. **Discord Bot**: Listens for TradingView alerts and processes trading operations.
-2. **Binance API**: Executes trades (buy/sell) on Binance Futures.
+2. **Binance API Bot**: Executes trades (buy/sell) on Binance Futures.
 3. **Notification System**: Sends updates and trade confirmations to a separate Discord channel.
 
 ---
